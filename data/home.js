@@ -11,61 +11,69 @@ export const services = {
 	description: "",
 	services: [
 		{
-			title: "Website Design",
+			title: "UI UX Design",
 			description:
-				"Attract, engage, and convert with our expert website design services. Create a visually stunning and user-friendly online presence tailored to your brand. Boost your business with a responsive and optimized website that drives traffic and maximizes conversions. Stay ahead of the competition and leave a lasting impression on your visitors with our professional website design solutions.",
+				"Transforming digital experiences with  UI/UX for mobile, websites, and web apps. Our expert team delivers pixel-perfect designs and seamless interactions that captivate users. Elevate your brand with our cutting-edge solutions.",
 			image: "/images/icons/logo-and-branding.svg",
-		},
-		{
-			title: "Website Development",
-			description:
-				"Unlock the full potential of your online business with our top-notch website development services. Our skilled team of developers will bring your vision to life, crafting a robust and scalable website that exceeds industry standards. From custom functionality to seamless user experiences, we specialize in creating tailor-made web solutions that drive growth and enhance user engagement.",
-			image: "/images/icons/service2.svg",
-		},
-		{
-			title: "Website Maintenance",
-			description:
-				"Effortlessly optimize and maintain your online presence with our streamlined website management services. From updates to security, content management to SEO, we handle it all while you focus on your business. Trust us to keep your website running smoothly and attract visitors with a seamless user experience.",
-			image: "/images/icons/service3.svg",
 		},
 		{
 			title: "MVP Development",
 			description:
-				"Accelerate your product's journey to success with our MVP (Minimum Viable Product) development services. We specialize in rapidly prototyping and launching your idea, allowing you to test the market and gather valuable user feedback. Our expert team will work closely with you to build a functional and scalable MVP that showcases your product's core features and captivates your target audience.",
+				"Accelerate your product's journey to success with our MVP (Minimum Viable Product) development services. We specialize in rapidly prototyping and launching your idea, allowing you to test the market.",
 			image: "/images/icons/service4.svg",
+		},
+		{
+			title: "Biz Success Accelerator",
+			description:
+				"Establish Business Channel. Here, we'll create a stunning landing page, implement effective lead generation strategies, setup Google Ads campaigns, integrate Calendly, and establish Solid Base for you! ",
+			image: "/images/icons/service3.svg",
+		},
+		
+		{
+			title: "Website Design and Development",
+			description:
+				"Unlock the full potential of your online business with our top-notch website development services. Our skilled team of developers will bring your vision to life, crafting a scalable website.",
+			image: "/images/icons/service2.svg",
 		},
 		{
 			title: "Mobile app Design and Development",
 			description:
-				"Revolutionize with our mobile app design and development services. Our expert team will create a captivating and user-friendly app, tailored to your goals. From concept to launch, we'll guide you every step of the way, delivering a high-quality product that engages your audience and drives success.",
+				"Revolutionize with our mobile app design and development services. Our expert team will create a captivating and user-friendly app, tailored to your goals.",
 			image: "/images/icons/service5.svg",
 		},
 		{
-			title: "Web app Design and Development.",
+			title: "Web app Design and Development",
 			description:
-				"Unleash your digital potential with our web app design and development services. Our team crafts stunning and functional web applications that elevate your business. From concept to deployment, we deliver tailored solutions that engage users and drive results.",
+				"Unleash your digital potential with our web app design and development services. Our team crafts stunning and functional web applications that elevate your business.",
 			image: "/images/icons/service6.svg",
 		},
 		{
 			title: "Game Development",
 			description:
-				"Level up your gaming experience with our exceptional game development services. Our talented team brings your ideas to life, creating immersive and captivating games that engage players. From concept to launch, we handle every aspect of game development, delivering a high-quality product that stands out in the competitive gaming industry.",
+				"Level up your gaming experience with our exceptional game development services. Our talented team brings your ideas to life, creating immersive and captivating games that engage players.",
 			image: "/images/icons/service2.svg",
 		},
 		{
-			title: "AR/VR Development",
+			title: "AR VR Development",
 			description:
-				"Immerse your audience in extraordinary experiences with our AR/VR development services. Our team creates captivating augmented and virtual reality applications that push boundaries and captivate users. Transform your vision into reality and unlock limitless possibilities with our expert AR/VR development solutions.",
+				"Immerse your audience in extraordinary experiences with our AR/VR development services. Our team creates captivating augmented and virtual reality applications that push boundaries and captivate users. ",
 			image: "/images/icons/service4.svg",
 		},
 		{
 			title: "Consultancy",
 			description:
-				"Gain valuable insights and expert guidance for your business with our consultancy services. Our team of experienced consultants will analyze your challenges, provide strategic recommendations, and help you make informed decisions. Unlock new opportunities, optimize operations, and achieve your goals with our trusted consultancy solutions.",
+				"Gain valuable insights and expert guidance for your business with our consultancy services. Our team of experienced consultants will analyze your challenges, provide strategic recommendations, and help you make informed decisions. ",
 			image: "/images/icons/service6.svg",
 		},
 	],
 };
+
+
+
+
+
+
+
 
 export const projects = {
 	title: "Our Latest Creative Work",
@@ -105,9 +113,9 @@ export const projects = {
 				"WebFlow Integrations",
 				"Deployment",
 			],
-			title: "Dexterity.ai",
-			mobilePreview: "/images/PortfolioPictures/Dexterity 260x550.png",
-			desktopPreview: "/images/PortfolioPictures/Dexterity 640x410.png",
+			title: "ClientAcquisition.io",
+			mobilePreview: "/images/PortfolioPictures/Health grizzyly 260x550.png",
+			desktopPreview: "/images/PortfolioPictures/Health grizzly 640x410.png",
 		},
 		{
 			background: "bg-gradient4",
@@ -166,22 +174,22 @@ export const teamMembers = {
 		{
 			name: "Ahmad Hussain",
 			role: "React Native Developer",
-			image: "/images/team/Ahmed_Hussain_270x320.jpeg",
+			image: "/images/team/Ahmad.png",
 		},
 		{
 			name: "Raza Jaffari",
 			role: "SQA",
-			image: "/images/team/Raza Jaffari 1.jpg",
+			image: "/images/team/Ahsan.png",
 		},
 		{
 			name: "Syed Zulqarnain",
 			role: "Flutter Developer",
-			image: "/images/team/zeqi 1.jpg",
+			image: "/images/team/zeqi.png",
 		},
 		{
 			name: "Talha Shah",
 			role: "Backend Developer",
-			image: "/images/team/ahsan shah.jpeg",
+			image: "/images/team/Raza.png",
 		},
 	],
 };

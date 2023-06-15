@@ -9,6 +9,7 @@
     "lint": "next lint",
     "lint:fix": "next lint --fix",
     "export": "next export"
+  
   },
   "dependencies": {
     "bootstrap": "^5.2.3",
@@ -26,4 +27,8 @@
   "devDependencies": {
     "@iconify/react": "^4.1.0"
   }
+  
+
+  
+  
 }

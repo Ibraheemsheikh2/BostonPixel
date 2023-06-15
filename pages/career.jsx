@@ -245,8 +245,7 @@ const Career = () => {
 													aria-expanded="true"
 													aria-controls="collapseOne"
 												>
-													Web &amp; Visual Designer -
-													2 Post
+													Node JS Backend Developer.
 												</button>
 											</h2>
 											<div
@@ -261,75 +260,31 @@ const Career = () => {
 															Overview
 														</h5>
 														<p>
-															Lorem Ipsum is
-															simply dummy text of
-															the printing and
-															typesetting
-															industry. Lorem
-															Ipsum has been the
-															industrys specimen
-															book. Lorem Ipsum is
-															simply dummy text of
-															the printing and
-															typesetting
-															industry.{" "}
+														Boston Pixel is actively seeking a talented Node.js Backend Developer to join our team. If you have a passion for building robust and scalable web applications and possess a strong foundation in Node.js development, we want to connect with you!{" "}
 														</p>
 														<h5 className="pt20 pb20">
 															Required experience
 														</h5>
 														<p>
-															5 Years Lorem Ipsum
-															is simply dummy text
-															of the printing and
-															typesetting
-															industry. Lorem
-															Ipsum has been the
-															industrys specimen
-															book. Lorem Ipsum is
-															simply dummy text of
-															the printing and
-															typesetting
-															industry.{" "}
+															1-2 Years{" "}
 														</p>
 														<h4 className="pb20 pt20">
 															Skills Required:
 														</h4>
 														<ul className="list-ul ul-check">
 															<li>
-																Deep familiarity
-																with Core PHP
-																and Laravel
+															Develop and maintain efficient and secure backend systems using Node.js
 															</li>
 															<li>
-																Experience of
-																Ajax &amp;
-																Jquery
+															Collaborate with cross-functional teams to design and implement APIs and data models
 															</li>
 															<li>
-																Good
-																understanding of
-																JSON &amp;
-																third-party
-																libraries and
-																APIs
+															Write clean, modular, and well-documented code
 															</li>
 															<li>
-																Should be able
-																to understand
-																entire
-																development life
-																cycle concept.
-																(Design, build,
-																deploy, test,
-																deploy online
-																&amp; support)
-															</li>
+															Optimize application performance and scalability															</li>
 															<li>
-																Strong knowledge
-																in Web Services
-																&amp; APIs, LBS,
-																Social Network
-																Integration etc.
+															Identify and address technical issues and bugs
 															</li>
 															<li>
 																Strong knowledge
@@ -337,8 +292,7 @@ const Career = () => {
 																(Mysql)
 															</li>
 															<li>
-																Good Knowledge
-																in Google APIs
+															Stay up-to-date with industry trends and technologies
 															</li>
 															<li>
 																Good
@@ -352,17 +306,9 @@ const Career = () => {
 																programming and
 																design skills
 															</li>
-															<li>
-																Knowledge in
-																versioning Tools
-																that includes
-																like trunk,
-																branch, export,
-																import and copy
-																will be an added
-																advantage
-															</li>
+														
 														</ul>
+
 														<a
 															href="#"
 															className="btn-main bg-btn2 text-decoration-none  mt20"
@@ -377,151 +323,7 @@ const Career = () => {
 												</div>
 											</div>
 										</div>
-										<div className="accordion-item">
-											<h2
-												className="accordion-header"
-												id="headingOne"
-											>
-												<button
-													className="accordion-button"
-													type="button"
-													data-bs-toggle="collapse"
-													data-bs-target="#collapse-2"
-													aria-expanded="true"
-													aria-controls="collapseOne"
-												>
-													Head of UX and Design - 3
-													Post
-												</button>
-											</h2>
-											<div
-												id="collapse-2"
-												className="accordion-collapse collapse"
-												aria-labelledby="headingOne"
-												data-bs-parent="#accordionExample"
-											>
-												<div className="accordion-body">
-													<div className="data-reqs">
-														<h5 className="pt20 pb20">
-															Overview
-														</h5>
-														<p>
-															Lorem Ipsum is
-															simply dummy text of
-															the printing and
-															typesetting
-															industry. Lorem
-															Ipsum has been the
-															industrys specimen
-															book. Lorem Ipsum is
-															simply dummy text of
-															the printing and
-															typesetting
-															industry.{" "}
-														</p>
-														<h5 className="pt20 pb20">
-															Required experience
-														</h5>
-														<p>
-															Lorem Ipsum is
-															simply dummy text of
-															the printing and
-															typesetting
-															industry. Lorem
-															Ipsum has been the
-															industrys specimen
-															book. Lorem Ipsum is
-															simply dummy text of
-															the printing and
-															typesetting
-															industry.{" "}
-														</p>
-														<h4 className="pb20 pt20">
-															Skills Required:
-														</h4>
-														<ul className="list-ul ul-check">
-															<li>
-																Deep familiarity
-																with Core PHP
-																and Laravel
-															</li>
-															<li>
-																Experience of
-																Ajax &amp;
-																Jquery
-															</li>
-															<li>
-																Good
-																understanding of
-																JSON &amp;
-																third-party
-																libraries and
-																APIs
-															</li>
-															<li>
-																Should be able
-																to understand
-																entire
-																development life
-																cycle concept.
-																(Design, build,
-																deploy, test,
-																deploy online
-																&amp; support)
-															</li>
-															<li>
-																Strong knowledge
-																in Web Services
-																&amp; APIs, LBS,
-																Social Network
-																Integration etc.
-															</li>
-															<li>
-																Strong knowledge
-																in database
-																(Mysql)
-															</li>
-															<li>
-																Good Knowledge
-																in Google APIs
-															</li>
-															<li>
-																Good
-																understanding of
-																MVC concepts and
-																design patterns
-															</li>
-															<li>
-																Strong object
-																oriented
-																programming and
-																design skills
-															</li>
-															<li>
-																Knowledge in
-																versioning Tools
-																that includes
-																like trunk,
-																branch, export,
-																import and copy
-																will be an added
-																advantage
-															</li>
-														</ul>
-														<a
-															href="#"
-															className="btn-main bg-btn2 text-decoration-none  mt20"
-															data-bs-toggle="modal"
-															data-bs-target="#modalform"
-														>
-															Apply Now
-															<i className="fas fa-chevron-right fa-icon" />
-															<span className="circle" />
-														</a>
-													</div>
-												</div>
-											</div>
-										</div>
+										
 									</div>
 								</div>
 							</div>

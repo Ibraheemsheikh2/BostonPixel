@@ -77,35 +77,12 @@ const TeamDetail = () => {
 									</p>
 									<div className="social-media-profile">
 										<a
-											href="javascript:void(0)"
-											target="blank"
-										>
-											<i className="fab fa-facebook" />
-										</a>
-										<a
-											href="javascript:void(0)"
-											target="blank"
-										>
-											<i className="fab fa-twitter" />
-										</a>
-										<a
-											href="javascript:void(0)"
-											target="blank"
-										>
-											<i className="fab fa-instagram" />
-										</a>
-										<a
-											href="javascript:void(0)"
+											href="https://www.linkedin.com/in/ibraheem-sheikh-b039451a3/"
 											target="blank"
 										>
 											<i className="fab fa-linkedin" />
 										</a>
-										<a
-											href="javascript:void(0)"
-											target="blank"
-										>
-											<i className="fab fa-dribbble" />
-										</a>
+										
 									</div>
 								</div>
 							</div>

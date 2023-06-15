@@ -99,13 +99,16 @@ const Contact = () => {
 														Select Requirement
 													</option>
 													<option value="web">
-														web
+														Website Development
 													</option>
 													<option value="graphic">
-														graphic
+														UI/UX Design
 													</option>
 													<option value="video">
-														video
+														Mobile/Web App Development
+													</option>
+													<option value="video">
+														Game Development
 													</option>
 												</select>
 												<div className="help-block with-errors" />

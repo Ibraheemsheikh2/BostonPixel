@@ -135,8 +135,8 @@ const About = () => {
 								</div>
 								<h4>Reasearch and Analysis</h4>
 								<p>
-									Our deep research and analysis drive
-									data-driven solutions for real results.
+									Our research and analysis drive
+									data-driven solutions for results.
 								</p>
 							</div>
 						</div>
@@ -191,7 +191,7 @@ const About = () => {
 					</div>
 				</div>
 			</section>
-			<Footer />
+			<Footer/>
 		</>
 	);
 };

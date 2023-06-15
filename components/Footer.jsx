@@ -75,12 +75,12 @@ const Footer = () => {
 									<h5>SUPPORT</h5>
 									<ul className="footer-address-list link-hover">
 										<li>
-											<Link href="get-quote.html">
-												Contact
+											<Link href="/schedule-meeting">
+												Schedule Meeting
 											</Link>
 										</li>
 										<li>
-											<Link href="/about-us">
+											<Link href="/about">
 												About us
 											</Link>
 										</li>

@@ -63,7 +63,7 @@ const Services = () => {
 									<h4>{service.title}</h4>
 									<p>{service.description}</p>
 									<Link
-										href="/view-process"
+										href={`/view-process-${service.title.toLowerCase().replace(/\s+/g, '-')}`}
 										className="btn-main bg-btn2 text-decoration-none text-white w-50"
 									>
 										View Process

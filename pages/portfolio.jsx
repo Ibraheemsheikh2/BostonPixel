@@ -64,14 +64,7 @@ const Portfolio = () => {
 												)
 											)}
 										</ul>
-										<Link
-											href="case-study"
-											className="btn-outline text-decoration-none mt30"
-										>
-											View Case Study{" "}
-											<i className="fas fa-chevron-right fa-icon" />
-											<span className="circle" />
-										</Link>
+										
 									</div>
 									<div className="portfolio-wide-image">
 										<div className="img-wide-blocktt tilt-outer">

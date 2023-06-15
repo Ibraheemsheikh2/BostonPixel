@@ -36,7 +36,8 @@ export default function Home() {
 									>
 										From Concept to <span>Launch</span>,
 										Your Trusted Partner in Developing
-										Websites
+										Mobile and Web Apps!
+										
 									</h1>
 									<p
 										className="wow fadeInUp"
