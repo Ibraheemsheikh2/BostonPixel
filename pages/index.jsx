@@ -17,7 +17,10 @@ export default function Home() {
 	return (
 		<>
 			<SEO title="Boston Pixel" description={hero.intro} />
-			<Header />
+			<Header>
+			<meta name="google-site-verification" content="B96IhGAyc0BD3uICItCsz1CvgS-2Qc-_4fk3wLyo9UM" />
+
+			</Header>
 			<section className="hero-section fl-hero">
 				<div className="text-block">
 					<div className="container">
