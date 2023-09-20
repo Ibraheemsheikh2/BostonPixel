@@ -38,7 +38,7 @@ export const services = {
 		{
 			title: "Mobile app Design and Development",
 			description:
-				"Revolutionize with our mobile app design and development services. Our expert team will create a captivating and user-friendly app, tailored to your goals.",
+				"Revolutionize with our mobile app design and development services. Our expert team will create a captivating and user-friendly app, tailored to your goals. Book with us a meeting and let's explore!",
 			image: "/images/icons/service5.svg",
 		},
 		{
@@ -113,7 +113,7 @@ export const projects = {
 				"WebFlow Integrations",
 				"Deployment",
 			],
-			title: "ClientAcquisition.io",
+			title: "Health grizzly",
 			mobilePreview: "/images/PortfolioPictures/Health grizzyly 260x550.png",
 			desktopPreview: "/images/PortfolioPictures/Health grizzly 640x410.png",
 		},

@@ -67,7 +67,7 @@ const TeamMembers = () => {
 									<Link href="/ibrahim-detail">
 										<div >  {/* remove class image-div */}
 											<img
-												src="/images/pics/ibrahim.png"
+												src="/images/pics/ibrahim 1.png"
 												alt="team"
 												className="img-fluid rounded-circle"
 											/>

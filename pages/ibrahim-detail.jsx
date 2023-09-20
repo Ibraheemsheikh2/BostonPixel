@@ -43,7 +43,7 @@ const TeamDetail = () => {
 								<div className="image-div">
 									<a href="#">
 										<img
-											src="/images/pics/ibrahim.png"
+											src="/images/pics/ibrahim 1.png"
 											alt="team"
 											className="img-fluid"
 										/>

@@ -111,25 +111,27 @@ const Footer = () => {
 									<h5>Services</h5>
 									<ul className="footer-address-list link-hover">
 										<li>
-											<Link href="#">
+											<Link href="/view-process-website-design-and-development">
 												Web Development.
 											</Link>
 										</li>
 										<li>
-											<Link href="#">
+											<Link href="/view-process-mobile-app-design-and-development">
 												Mobile App Development.
 											</Link>
 										</li>
 										<li>
-											<Link href="#">
+											<Link href="/view-process-game-development">
 												Game Development.
 											</Link>
 										</li>
 										<li>
-											<Link href="#">AR/VR.</Link>
+											<Link href="/view-process-ar-vr-development">AR/VR.</Link>
 										</li>
 										<li>
-											<Link href="#">Consultancy</Link>
+											<Link href="/view-process-consultancy">
+												Consultancy
+											</Link>
 										</li>
 									</ul>
 								</div>
@@ -138,23 +140,23 @@ const Footer = () => {
 								<div className="col-lg-4 col-sm-6">
 									<h5>Follow Us</h5>
 									<div className="ff-social-icons mt30">
-										<Link href="#" target="blank">
+										<Link href="https://www.facebook.com/profile.php?id=100092660391361" target="blank">
 											<i className="fab fa-facebook" />
 										</Link>
-										<Link href="#" target="blank">
+										<Link href="https://twitter.com/boston_pixel" target="blank">
 											<i className="fab fa-twitter" />
 										</Link>
 										<Link href="#" target="blank">
 											<i className="fab fa-linkedin" />
 										</Link>
-										<Link href="#" target="blank">
+										<Link href="https://www.instagram.com/boston_pixel/" target="blank">
 											<i className="fab fa-instagram" />
 										</Link>
 									</div>
 								</div>
 								<div className="col-lg-6">
 									<div className="footer-copyrights-">
-										<p>Copyright © 2020-2021 Niwax.</p>
+										<p>Copyright © 2022-2023 Boston Pixel.</p>
 									</div>
 								</div>
 							</div>

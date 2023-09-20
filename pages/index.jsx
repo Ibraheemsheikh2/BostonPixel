@@ -5,6 +5,7 @@ import Footer from "@/components/Footer";
 import SEO from "@/components/SEO";
 import { hero, projects, services, skills, teamMembers } from "@/data/home";
 import { useEffect } from "react";
+
 const isServer = typeof window === "undefined";
 const WOW = !isServer ? require("wowjs") : null;
 
@@ -19,7 +20,7 @@ export default function Home() {
 			<SEO title="Boston Pixel" description={hero.intro} />
 			<Header>
 			<meta name="google-site-verification" content="B96IhGAyc0BD3uICItCsz1CvgS-2Qc-_4fk3wLyo9UM" />
-
+			 	
 			</Header>
 			<section className="hero-section fl-hero">
 				<div className="text-block">
@@ -64,17 +65,19 @@ export default function Home() {
 								<div className="single-image d-flex justify-content-center">
 									<img
 										src={hero.image}
-										width={350}
-										height={350}
+										width={700}
+										height={830}
 										alt="service"
 										className="img-fluid mx-auto"
 									/>
 								</div>
 							</div>
+
 						</div>
 					</div>
 				</div>
 			</section>
+
 			<div className="statistics-section bg-white pad-tb tilt3d" id="statsSections">
 				<div className="container">
 					<div className="row justify-content-center t-ctr">
