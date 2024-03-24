@@ -49,14 +49,15 @@ const About = () => {
 							<div className="common-heading text-l ">
 								<h2>About Boston Pixel</h2>
 								<p>
-									At Boston Pixel, we are a dynamic
-									development agency founded in 2020, with a
+									At Boston Pixel, we three friends collaborate together 
+									to bring Ideas to life. 
+									Founded in 2020, with a
 									strong presence in both Pakistan and the
 									USA. What sets us apart is our unwavering
 									commitment to streamlined processes,
 									ensuring efficient and seamless delivery of
 									exceptional digital solutions.With a team of
-									12 talented individuals, we fuel our growth
+									4 talented individuals, we fuel our growth
 									by harnessing cutting-edge technologies and
 									staying ahead of industry trends. We take
 									pride in our ability to connect the dots and
@@ -84,7 +85,7 @@ const About = () => {
 								<div className="col-lg-4 col-sm-4">
 									<div className="statistics">
 										<div className="statnumb counter-number">
-											<span className="counter">18</span>
+											<span className="counter">34</span>
 											<p>Happy Clients</p>
 										</div>
 									</div>
@@ -92,7 +93,7 @@ const About = () => {
 								<div className="col-lg-4 col-sm-4">
 									<div className="statistics">
 										<div className="statnumb">
-											<span className="counter">10</span>
+											<span className="counter">25</span>
 											<span>k</span>
 											<p>Hours Worked</p>
 										</div>
@@ -101,7 +102,7 @@ const About = () => {
 								<div className="col-lg-4 col-sm-4">
 									<div className="statistics mb0">
 										<div className="statnumb counter-number">
-											<span className="counter">36</span>
+											<span className="counter">79</span>
 											<p>Projects Done</p>
 										</div>
 									</div>

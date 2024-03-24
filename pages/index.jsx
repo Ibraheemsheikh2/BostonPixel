@@ -122,8 +122,8 @@ export default function Home() {
 									/>
 								</div>
 								<div className="statnumb">
-									<span className="counter">8</span>
-									<span>+</span>
+									<span className="counter">4</span>
+									
 									<p>Team Members</p>
 								</div>
 							</div>
@@ -145,7 +145,7 @@ export default function Home() {
 									/>
 								</div>
 								<div className="statnumb">
-									<span className="counter">18</span>
+									<span className="counter">34</span>
 									<p>Happy Clients</p>
 								</div>
 							</div>
@@ -165,7 +165,7 @@ export default function Home() {
 									/>
 								</div>
 								<div className="statnumb counter-number">
-									<span className="counter">36</span>
+									<span className="counter">79</span>
 									<p>Projects Done</p>
 								</div>
 							</div>
@@ -185,7 +185,7 @@ export default function Home() {
 									/>
 								</div>
 								<div className="statnumb">
-									<span className="counter">10</span>
+									<span className="counter">25</span>
 									<span>k</span>
 									<p>Hours Worked</p>
 								</div>
@@ -318,7 +318,7 @@ export default function Home() {
 														className="img-fluid"
 													/>{" "}
 												</div>
-												<div className="mobileblock shadow1">
+												{/* <div className="mobileblock shadow1">
 													<img
 														src={
 															project.mobilePreview
@@ -326,7 +326,7 @@ export default function Home() {
 														alt="img"
 														className="img-fluid"
 													/>{" "}
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -381,36 +381,45 @@ export default function Home() {
 				</div>
 			</section>
 			<section className="team pad-tb deep-dark">
-				<div className="container">
-					<div className="row justify-content-center">
-						<div className="col-lg-8">
-							<div className="common-heading ptag">
-								<span></span>
-								<h2>Our Team Members</h2>
-							</div>
-						</div>
-					</div>
-					<div className="row">
-						{teamMembers.members.map((member, index) => (
-							<div key={index} className="col-lg-3 col-sm-6">
-								<div className="full-image-card hover-scale">
-									<div className="image-div">
-										<img
-											src={member.image}
-											alt="team"
-											className="img-fluid"
-										/>
-									</div>
-									<div className="info-text-block">
-										<h4>{member.name}</h4>
-										<p>{member.role}</p>
-									</div>
-								</div>
-							</div>
-						))}
-					</div>
-				</div>
-			</section>
+    <style>
+        {`.team-member {
+            margin-bottom: 20px; /* Adjust the value to increase or decrease the gap */
+        }`}
+    </style>
+    <div className="container">
+        <div className="row justify-content-center">
+            <div className="col-lg-8">
+                <div className="common-heading ptag">
+                    <span></span>
+                    <h2>Faces Behind the Work</h2>
+                </div>
+            </div>
+        </div>
+        <div className="row justify-content-center">
+            {teamMembers.members.map((member, index) => (
+                <div key={index} className="col-lg-3 col-sm-6 team-member">
+                    <div className="full-image-card hover-scale">
+                        <div className="image-div">
+                            <img
+                                src={member.image}
+                                alt="team"
+                                className="img-fluid"
+                            />
+                        </div>
+                        <div className="info-text-block">
+                            <h4>{member.name}</h4>
+                            <p>{member.role}</p>
+                        </div>
+                    </div>
+                </div>
+            ))}
+        </div>
+    </div>
+</section>
+
+
+
+
 			<Footer />
 		</>
 	);

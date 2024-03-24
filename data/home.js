@@ -62,7 +62,7 @@ export const services = {
 		{
 			title: "Consultancy",
 			description:
-				"Gain valuable insights and expert guidance for your business with our consultancy services. Our team of experienced consultants will analyze your challenges, provide strategic recommendations, and help you make informed decisions. ",
+				"Gain valuable insights and expert guidance for your business where I personally analyze your chalanges, provide recommendations, and help you make inforemed decisions.",
 			image: "/images/icons/service6.svg",
 		},
 	],
@@ -87,49 +87,73 @@ export const projects = {
 				"Backend Development",
 				"System Design and Deployment",
 			],
-			title: "Go Rental NZ - Car Rental Mobile & Web App Development",
-			desktopPreview: "/images/PortfolioPictures/Go Rental 640x410.png",
-			mobilePreview: "/images/PortfolioPictures/Go Rental 260x550.png",
+			title: "Soarfare - Travel Startup Web App Development with Subscriptions",
+			desktopPreview: "/images/PortfolioPictures/Soarfare 640x410.png",
+			
 		},
 		{
 			background: "bg-gradient2",
 			tags: ["Design", "Coding", "Development"],
 			features: [
-				"Development Strategy",
-				"UI/UX of the application",
+				"Development Consultancy",
+				"UI/UX, Prototyping",
 				"Backend Development",
-				"System Design and Deployment",
+				"Deployment and Testing",
 			],
-			title: "Sweat fitness - Fitness Mobile App & Landing Page",
-			mobilePreview: "/images/PortfolioPictures/Sweat App 260x550.jpg",
-			desktopPreview: "/images/PortfolioPictures/Sweat App 640X410.png",
+			title: "AJ Autos - MOT Garage Management System",
+			desktopPreview: "/images/PortfolioPictures/MOT 640X410.png",
 		},
 		{
 			background: "bg-gradient3",
-			tags: ["Design", "Webflow", "Website Development"],
+			tags: ["Design", "Mobile App", "Web App Development"],
 			features: [
-				"Development Strategy",
-				"Figma to Webflow",
-				"WebFlow Integrations",
-				"Deployment",
+				"Design, Prototyping",
+				"Front End Development",
+				"Backend with Firebase",
+				"Extensive Testing",
 			],
-			title: "Health grizzly",
-			mobilePreview: "/images/PortfolioPictures/Health grizzyly 260x550.png",
-			desktopPreview: "/images/PortfolioPictures/Health grizzly 640x410.png",
+			title: "Jooba - Security Jobs Exploration Mobile and Web App",
+			desktopPreview: "/images/PortfolioPictures/jooba 640x410.png",
 		},
 		{
 			background: "bg-gradient4",
+			tags: ["Design", "Mobile App", "Web App Development"],
+			features: [
+				"Design, Prototyping",
+				"Front End Development",
+				"Backend with Firebase",
+				"Extensive Testing",
+			],
+			title: "WatchSwipe - Mobile App for Exploring High End Luxury Watches",
+			desktopPreview: "/images/PortfolioPictures/WatchSwipe 640x410.png",
+		},
+		{
+			background: "bg-gradient5",
 			tags: ["Design", "Development", "Deployment"],
 			features: [
-				"Development Strategy",
-				"UI/UX of the application",
-				"Backend Development",
-				"Deployment",
+				"Wordpress Development",
+				"Custom Scripts Integration",
+				"Third Party Integrations",
 			],
-			title: "Freshly - Make your Mealst",
-			mobilePreview: "/images/PortfolioPictures/Freshly 260x550.png",
-			desktopPreview: "/images/PortfolioPictures/Freshly 640x410.png",
+			title: "hypnosisfortraders.co.uk - Trading Psychology Learning Platform with Courses",
+			desktopPreview: "/images/PortfolioPictures/Hypnosis 640x410.png",
+
+
 		},
+
+		{
+			background: "bg-gradient6",
+			tags: ["Design", "Development", "Deployment"],
+			features: [
+				"Wordpress Development",
+				"Custom Scripts Integration",
+				"Third Party Integrations",
+			],
+			title: "Rayan Taxi - Web Platform for Booking Private Cabs",
+			desktopPreview: "/images/PortfolioPictures/Rayan Taxi 640x410.png",
+
+
+		}
 	],
 };
 
@@ -171,27 +195,28 @@ export const teamMembers = {
 	description:
 		"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
 	members: [
+		
 		{
-			name: "Ahmad Hussain",
-			role: "React Native Developer",
-			image: "/images/team/Ahmad.png",
+			name: "Talal",
+			role: "Backend Developer, Database Management, Server Side Configurations and AWS",
+			image: "/images/team/Talal 3.png",
 		},
+
 		{
-			name: "Raza Jaffari",
-			role: "SQA",
-			image: "/images/team/Ahsan.png",
+			name: "Ibrahim",
+			role: "Database Architect, UX, System Design and Front End",
+			image: "/images/team/Ibrahim 1.png",
 		},
+
 		{
-			name: "Syed Zulqarnain",
-			role: "Flutter Developer",
-			image: "/images/team/zeqi.png",
+			name: "Taymor",
+			role: "Php Laravel, Custom Scripts, Firebase, Dev-ops",
+			image: "/images/team/Ahsan 1.png",
 		},
-		{
-			name: "Talha Shah",
-			role: "Backend Developer",
-			image: "/images/team/Raza.png",
-		},
-	],
+
+
+
+	]
 };
 
 export const footer = {

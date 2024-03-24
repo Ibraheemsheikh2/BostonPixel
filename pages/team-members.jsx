@@ -28,7 +28,7 @@ const TeamMembers = () => {
 									className="wow fadeInUp"
 									data-wow-delay=".2s"
 								>
-									Our Team Members
+									Who are we?
 								</h1>
 							</div>
 						</div>
@@ -40,29 +40,13 @@ const TeamMembers = () => {
 					<div className="row justify-content-center">
 						<div className="col-lg-8">
 							<div className="common-heading ptag">
-								<span>We Are Awesome</span>
-								<h2>Our Managing Directors</h2>
+								
+								<h2>Our Managing Director</h2>
 							</div>
 						</div>
 					</div>
 					<div className="row justify-content-center">
 							<div className="col-lg-4 col-sm-6 px-5">
-								<div className="full-image-card hover-scale text-center">
-									<Link href="/nick-detail">
-										<div>
-											<img
-												src="/images/pics/Nick.png"
-												alt="team"
-												className="img-fluid rounded-circle"
-											/>
-										</div>
-									</Link>
-									<div className="info-text-block">
-										<h4>Nick</h4>
-										<p>COO</p>
-									</div>
-								</div>
-							</div><div className="col-lg-4 col-sm-6 px-5">
 								<div className="mt-5 hover-scale text-center">
 									<Link href="/ibrahim-detail">
 										<div >  {/* remove class image-div */}

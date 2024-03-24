@@ -84,7 +84,7 @@ const Portfolio = () => {
 														className="img-fluid"
 													/>{" "}
 												</div>
-												<div className="mobileblock shadow1">
+												{/* <div className="mobileblock shadow1">
 													<img
 														src={
 															project.mobilePreview
@@ -92,7 +92,7 @@ const Portfolio = () => {
 														alt="img"
 														className="img-fluid"
 													/>{" "}
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
