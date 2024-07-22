@@ -70,11 +70,7 @@ export const services = {
 
 export const projects = {
   title: "Our Latest Creative Work",
-<<<<<<< HEAD
   categories: ["All", "Web", "Squarespace", "Webflow", "Framer", "WordPress", "Mobile Apps", "Shopify", "Real Estate" ],
-=======
-  categories: ["All", "Web", "WordPress", "Mobile Apps", "Shopify", "Real Estate" ],
->>>>>>> 9bd8fafbc64ffa114922078a8e8afe6b2cc56150
   projects: [
     {
       link: "https://hypnosisfortraders.co.uk/",
@@ -333,7 +329,6 @@ export const projects = {
     },
 
     {
-<<<<<<< HEAD
       link: "https://www.futuresforge.org/",
       category: "Squarespace",
       background: "bg-gradient4",
@@ -575,7 +570,7 @@ export const projects = {
         "Website Development",
       ],
       title: "iThriveLEAN - Semaglutide Prescribed Online",
-      desktopPreview: "/images/PortfolioPictures/Webflow/iThriveLean 640x410.gif",
+      desktopPreview: "/images/PortfolioPictures/Webflow/iThriveLean 640x410 n.gif",
     },
 
 
@@ -614,8 +609,6 @@ export const projects = {
 
 
     {
-=======
->>>>>>> 9bd8fafbc64ffa114922078a8e8afe6b2cc56150
       link: "https://www.rayantaxiservice.ch/",
       category: "Web",
       background: "bg-gradient4",
@@ -629,11 +622,8 @@ export const projects = {
       desktopPreview: "/images/PortfolioPictures/Rayan Taxi 640x410.png",
     },
 
-<<<<<<< HEAD
     
 
-=======
->>>>>>> 9bd8fafbc64ffa114922078a8e8afe6b2cc56150
 
   ],
 };
